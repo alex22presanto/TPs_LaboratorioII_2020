@@ -16,9 +16,7 @@ namespace TP_02_2018
             Console.SetWindowSize(Console.LargestWindowWidth / 2, Console.LargestWindowHeight - 2);
 
             // Nombre del alumno
-
             Console.Title = "Presanto Alex";
-
             Estacionamiento estacionamiento = new Estacionamiento(6);
 
             Moto c1 = new Moto(Vehiculo.EMarca.BMW, "ASD012", ConsoleColor.Black);
@@ -40,7 +38,6 @@ namespace TP_02_2018
             estacionamiento += a2;
             estacionamiento += a3;
             estacionamiento += a4;
-
             Console.WriteLine(estacionamiento.ToString());
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
@@ -49,7 +46,6 @@ namespace TP_02_2018
             // Quito 2 items y muestro
             estacionamiento -= c1;
             estacionamiento -= new Moto(Vehiculo.EMarca.Honda, "ASD913", ConsoleColor.Red);
-
             Console.WriteLine(estacionamiento.ToString());
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.ReadKey();
@@ -62,7 +58,6 @@ namespace TP_02_2018
             Console.WriteLine(Estacionamiento.Mostrar(estacionamiento, Estacionamiento.ETipo.Moto));
             Console.WriteLine("<-----------PRESIONE UNA TECLA PARA CONTINUAR----------->");
             Console.Beep();
-            Console.ReadKey();
             Console.Clear();
 
             // Muestro solo Automovil
