@@ -1,0 +1,8 @@
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Archivos\bin\Debug\Archivos.dll
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Archivos\bin\Debug\Excepciones.dll
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Archivos\bin\Debug\Excepciones.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Archivos\obj\Debug\Archivos.dll
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Archivos\obj\Debug\Archivos.pdb

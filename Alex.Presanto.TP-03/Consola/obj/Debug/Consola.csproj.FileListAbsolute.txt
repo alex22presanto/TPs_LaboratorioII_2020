@@ -1,0 +1,15 @@
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\Consola.exe.config
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\Consola.exe
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\Consola.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\obj\Debug\Consola.exe
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\obj\Debug\Consola.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\ClasesAbstractas.dll
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\ClasesInstanciables.dll
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\Excepciones.dll
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\Archivos.dll
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\Excepciones.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\bin\Debug\Archivos.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\Consola\obj\Debug\Consola.csproj.CopyComplete

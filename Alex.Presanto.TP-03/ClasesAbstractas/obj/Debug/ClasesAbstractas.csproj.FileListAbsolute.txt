@@ -1,0 +1,8 @@
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\ClasesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Alex Presanto\source\repos\Alex.Presanto.TP-03\ClasesAbstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
