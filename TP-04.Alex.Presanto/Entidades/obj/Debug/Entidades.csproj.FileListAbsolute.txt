@@ -1,0 +1,10 @@
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\bin\Debug\Interfaz.dll
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\bin\Debug\Interfaz.pdb
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\obj\Debug\Entidades.pdb

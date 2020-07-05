@@ -1,0 +1,5 @@
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Interfaz\bin\Debug\Interfaz.dll
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Interfaz\obj\Debug\Interfaz.dll
+C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Interfaz\obj\Debug\Interfaz.pdb
