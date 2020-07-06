@@ -88,10 +88,6 @@
       <Project>{78d664a3-983a-4c98-b571-078b1a0a5543}</Project>
       <Name>ExtencionString</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Interfaz\Interfaz.csproj">
-      <Project>{ef510544-e6c1-46ad-a372-6da59b7d25e8}</Project>
-      <Name>Interfaz</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

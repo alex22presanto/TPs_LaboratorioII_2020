@@ -8,3 +8,8 @@ C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\bin\Debug\Inte
 C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\obj\Debug\Entidades.csproj.CopyComplete
 C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\obj\Debug\Entidades.dll
 C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alex Presanto\Desktop\TP-2020\TP-04.Alex.Presanto\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alex Presanto\Desktop\TP-2020\TP-04.Alex.Presanto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alex Presanto\Desktop\TP-2020\TP-04.Alex.Presanto\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\Desktop\TP-2020\TP-04.Alex.Presanto\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alex Presanto\Desktop\TP-2020\TP-04.Alex.Presanto\Entidades\obj\Debug\Entidades.pdb

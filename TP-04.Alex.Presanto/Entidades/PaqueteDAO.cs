@@ -12,7 +12,9 @@ namespace Entidades
         private static SqlConnection conexion;
         private static SqlCommand comando;
 
-
+        /// <summary>
+        /// Inicializa la conexion sql
+        /// </summary>
         static PaqueteDAO()
         {
             try
@@ -29,6 +31,11 @@ namespace Entidades
             }
         }
 
+        /// <summary>
+        /// Guarda un paquete en la base de datos
+        /// </summary>
+        /// <param name="p">Paquete a guardar</param>
+        /// <returns>True si pudo guardar el paquete</returns>
         public static bool Insertar(Paquete p)
         {
             string insert;

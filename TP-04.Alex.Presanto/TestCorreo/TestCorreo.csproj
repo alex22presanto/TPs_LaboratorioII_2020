@@ -60,10 +60,6 @@
       <Project>{fbe77025-384a-4d98-b7aa-135e7a48b175}</Project>
       <Name>Entidades</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
-      <Project>{27462b37-2c99-46cc-9277-47c7c19d5ce5}</Project>
-      <Name>Excepciones</Name>
-    </ProjectReference>
     <ProjectReference Include="..\ExtencionString\ExtencionString.csproj">
       <Project>{78d664a3-983a-4c98-b571-078b1a0a5543}</Project>
       <Name>ExtencionString</Name>

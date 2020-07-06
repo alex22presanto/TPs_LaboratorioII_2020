@@ -42,19 +42,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Correo.cs" />
+    <Compile Include="IMostrar.cs" />
     <Compile Include="Paquete.cs" />
     <Compile Include="PaqueteDAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Excepciones\Excepciones.csproj">
-      <Project>{27462b37-2c99-46cc-9277-47c7c19d5ce5}</Project>
-      <Name>Excepciones</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Interfaz\Interfaz.csproj">
-      <Project>{ef510544-e6c1-46ad-a372-6da59b7d25e8}</Project>
-      <Name>Interfaz</Name>
-    </ProjectReference>
+    <Compile Include="TrackingIdRepetidoException.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

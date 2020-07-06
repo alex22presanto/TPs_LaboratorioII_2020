@@ -1,5 +1,0 @@
-C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Excepciones\bin\Debug\Excepciones.dll
-C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Excepciones\bin\Debug\Excepciones.pdb
-C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
-C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Excepciones\obj\Debug\Excepciones.dll
-C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\Excepciones\obj\Debug\Excepciones.pdb

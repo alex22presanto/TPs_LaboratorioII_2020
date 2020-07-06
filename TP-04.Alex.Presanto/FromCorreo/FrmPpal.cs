@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Entidades;
-using Interfaz;
 using ExtencionString;
 
 namespace FromCorreo

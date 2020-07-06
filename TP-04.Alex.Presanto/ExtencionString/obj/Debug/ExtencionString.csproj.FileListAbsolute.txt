@@ -3,3 +3,8 @@ C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\ExtencionString\bin\Debu
 C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\ExtencionString\obj\Debug\ExtencionString.csprojAssemblyReference.cache
 C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\ExtencionString\obj\Debug\ExtencionString.dll
 C:\Users\Alex Presanto\source\repos\TP-04.Alex.Presanto\ExtencionString\obj\Debug\ExtencionString.pdb
+C:\Users\Alex Presanto\Desktop\TP-2020\TP-04.Alex.Presanto\ExtencionString\bin\Debug\ExtencionString.dll
+C:\Users\Alex Presanto\Desktop\TP-2020\TP-04.Alex.Presanto\ExtencionString\bin\Debug\ExtencionString.pdb
+C:\Users\Alex Presanto\Desktop\TP-2020\TP-04.Alex.Presanto\ExtencionString\obj\Debug\ExtencionString.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\Desktop\TP-2020\TP-04.Alex.Presanto\ExtencionString\obj\Debug\ExtencionString.dll
+C:\Users\Alex Presanto\Desktop\TP-2020\TP-04.Alex.Presanto\ExtencionString\obj\Debug\ExtencionString.pdb

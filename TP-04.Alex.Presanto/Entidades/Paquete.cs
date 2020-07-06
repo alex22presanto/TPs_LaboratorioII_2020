@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Interfaz;
 
 namespace Entidades
 {
@@ -74,6 +73,11 @@ namespace Entidades
 
         #region Metodos
 
+        /// <summary>
+        /// Convierte a string el elemento
+        /// </summary>
+        /// <param name="elemento">PAquete a mostrar</param>
+        /// <returns></returns>
         public string MostarDatos(IMostrar<Paquete> elemento)
         {
             Paquete paquete = (Paquete) elemento;
@@ -110,6 +114,12 @@ namespace Entidades
 
         #region Operadores
 
+        /// <summary>
+        /// Dos paquetes son iguales si tiene el mismo trckingID
+        /// </summary>
+        /// <param name="p1">Paquete a evaluar</param>
+        /// <param name="p2">Paquete a evaluar</param>
+        /// <returns>True si son iguales</returns>
         public static bool operator ==(Paquete p1, Paquete p2)
         {
             if(p1.trackingID == p2.trackingID)
@@ -119,6 +129,12 @@ namespace Entidades
             return false;
         }
 
+        /// <summary>
+        /// Dos paquetes son diferentes si tiene el diferente trckingID
+        /// </summary>
+        /// <param name="p1">Paquete a evaluar</param>
+        /// <param name="p2">Paquete a evaluar</param>
+        /// <returns>True si son diferentes</returns>
         public static bool operator !=(Paquete p1, Paquete p2)
         {
             return !(p1 == p2);
