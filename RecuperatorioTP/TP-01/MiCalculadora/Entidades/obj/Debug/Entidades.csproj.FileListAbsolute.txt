@@ -1,0 +1,10 @@
+C:\Users\Alex Presanto\source\repos\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alex Presanto\source\repos\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alex Presanto\source\repos\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\source\repos\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alex Presanto\source\repos\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Alex Presanto\Desktop\TP-01\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\Alex Presanto\Desktop\TP-01\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Alex Presanto\Desktop\TP-01\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Alex Presanto\Desktop\TP-01\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\Alex Presanto\Desktop\TP-01\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
